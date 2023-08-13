@@ -6,8 +6,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtVYKp6XyYQhifc9mFOZJMw)
 
 
-[![Adrianolls's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianolls&count_private=true&show_icons=true&theme=dark)](https://github.com/adrianolls/github-readme-stats)
-
 ## Languages
 
 <div style="display: inline_block">
